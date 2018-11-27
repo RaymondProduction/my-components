@@ -1,6 +1,8 @@
-# MyComponents
+# My components
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+
+It is simple project. I create some components for me.
 
 ## Development server
 
